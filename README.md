@@ -1,6 +1,6 @@
 This is an AWS Athena utility project. This starter kit will be helpful when there is need to query athena and get result programatically.
 
-**The aws_access_key_id and aws_secret_access_key are kept as env variable. Before running this project, please set these 2 as evironment variables or set the aws_profile.**
+**The aws_access_key_id and aws_secret_access_key are kept as env variable. Before running this project, please set these 2 as evironment variables or set the aws_profile in local at .aws/credentials.**
 
 
 athena_utility.py - This file contains query_results(), delete_output() and read_config() function. 
