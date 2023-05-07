@@ -9,7 +9,6 @@ athena_utility.py - This file contains query_results(), delete_output() and read
                     The read_config() function is used for reading the .conf file where configuration like datbase, bucket, etc are present.
                     
 athena_config.conf - This is the config file where all the config related to database and athena are present.
-** The aws_access_key_id and aws_secret_access_key are kept as env variable. Before running this, please set these 2 as evironment variables
 
 main.py - This is the starter file which calls all the necessary function to achieve the functionality. 
 
